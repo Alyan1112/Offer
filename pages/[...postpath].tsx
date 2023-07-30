@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.highwaycpmrevenue.com/zimky3ekym?key=b604522b9597e46013bc8d487109197d/`
+					`https://shorturl.at/egiot/`
 				}`,
 			},
 		};
